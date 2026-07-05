@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.ViralGuardV4Pro" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

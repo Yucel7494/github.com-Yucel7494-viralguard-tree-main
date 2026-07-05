@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Viral Guard V4 Pro</string>
+    <string name="select_video">Video Seç</string>
+    <string name="record_video">Kamera ile Çek</string>
+    <string name="preview">Önizleme</string>
+    <string name="voice_clone">Ses Klonu</string>
+    <string name="script">Metin</string>
+    <string name="process">İşle</string>
+    <string name="settings">Ayarlar</string>
+    <string name="trt_news">TRT Ana Haber</string>
+    <string name="documentary">Belgesel</string>
+    <string name="breaking">Son Dakika</string>
+    <string name="social">Sosyal Medya Spikeri</string>
+</resources>
